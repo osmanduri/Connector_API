@@ -12,5 +12,5 @@ app.use('/api', routeApi);
 
 
 app.listen(port, () => {
-  console.log(`Example app listening at http://localhost:${port}`)
+  console.log(`app listening on PORT ${port}`)
 })
